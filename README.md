@@ -12,8 +12,6 @@ approvers review, Parcae provisions the group membership automatically — with
 time-bounded grants, automatic expiry, retry with backoff, webhook
 notifications, and a DB-enforced append-only audit trail.
 
-**Website:** https://parcae.eu
-
 Name origin: the Roman Fates — Nona (grants), Decima (reviews), Morta (revokes).
 
 ## What it looks like
